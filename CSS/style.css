@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Tilt+Neon&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #181818;
+
+}
+
+h1 {
+	font-family: 'Tilt Neon', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 50px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+h4{
+	font-size: 20px;
+}
+
+ul{
+	font-size: 15px;
+}
+
+p{
+	font-family: 'Lora', serif;
+	font-size: 15px;
+}

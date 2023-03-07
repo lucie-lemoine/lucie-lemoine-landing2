@@ -1,0 +1,42 @@
+.btn-top{
+	background-color: #282A3A;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
+
+.btn-recipes{
+	font-size: 35px;
+	background-color: #434242;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+.btn-lessons{
+	font-size: 35px;
+	background-color: #434242;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}	
+
+.btn-chefs{
+	font-size: 35px;
+	background-color: #434242;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+	
+

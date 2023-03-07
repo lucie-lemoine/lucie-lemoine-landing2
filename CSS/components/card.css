@@ -1,0 +1,114 @@
+.card{
+	background-color: #434242;
+	padding: 15px;
+	width: 350px;
+	font-size: 30px;
+	font-family: 'Lora', serif;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	margin: 5px auto;
+	margin-bottom: 20px;
+	padding-right: 50px;
+
+}
+
+.recipes{
+	width: 125px;
+	border-radius: 6px;
+}
+
+.lessons{
+	width: 150px;
+	border-radius: 6px;
+}
+
+.chefs{
+	width: 155px;
+	border-radius: 6px;
+}
+
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+	flex-basis: 250px;
+	flex-grow: 1;
+	margin: 10px;
+	padding-left: 10px;
+}
+
+.card-recipes{
+	background-color: #434242;
+	padding: 15px;
+	width: 700px;
+	font-size: 30px;
+	font-family: 'Lora', serif;
+	color: white;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	margin: 5px auto;
+	margin-bottom: 20px;
+	padding-right: 50px;
+
+}
+
+.soup{
+	width: 150px;
+	border-radius: 6px;
+}
+
+
+.cake{
+	width: 150px;
+	border-radius: 6px;
+}
+
+
+.card-chefs{
+	background-color: #434242;
+	padding: 15px;
+	width: 700px;
+	font-size: 30px;
+	font-family: 'Lora', serif;
+	color: white;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	margin: 5px auto;
+	margin-bottom: 20px;
+	padding-right: 50px;
+	display: flex;
+	height: 190px;
+}
+
+
+.toque{
+	width: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: auto;
+}
+
+
+.card-lessons{
+	background-color: #434242;
+	padding: 15px;
+	width: 700px;
+	font-size: 20px;
+	font-family: 'Lora', serif;
+	color: white;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 8px;
+	margin: 5px auto;
+	margin-bottom: 20px;
+	padding-right: 50px;
+	text-align: center;
+}
